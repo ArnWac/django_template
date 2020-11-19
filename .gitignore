@@ -1,2 +1,3 @@
 /django_template/core/settings/local.py
 /venv/
+/django_template/db.sqlite3
